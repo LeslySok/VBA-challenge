@@ -1,6 +1,7 @@
 VBA Homework - The VBA of Wall Street
 
 Background 
+
 In this homework assignment a VBA script was used to analyze real stock market data.
 
 Files:
