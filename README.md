@@ -4,7 +4,7 @@ Stock Data Analysis
 
 # Background 
 
-In this homework assignment a VBA script was used to analyze real stock market data.
+In this homework assignment, a VBA script was used to analyze real stock market data.
 
 # Files:
 2014 Stock Data Analysis.jpg
